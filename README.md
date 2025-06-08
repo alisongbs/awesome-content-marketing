@@ -1,4 +1,4 @@
-# Awesome Content Marketing [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome Content Marketing
 
 
 
